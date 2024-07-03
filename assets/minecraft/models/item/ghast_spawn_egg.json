@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/ghast_spawn_egg"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 901 },
+      "model": "item/custom/coin"
+      
+    },
+    {
+      "predicate": { "custom_model_data": 902 },
+      "model": "item/custom/lock"
+      
+    },
+    {
+      "predicate": { "custom_model_data": 903 },
+      "model": "item/custom/key"
+      
+    }
+  ]
+}

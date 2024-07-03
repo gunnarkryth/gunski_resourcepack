@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/glistering_melon_slice"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 901 },
+      "model": "item/custom/coin"
+    },
+    {
+      "predicate": { "custom_model_data": 902 },
+      "model": "item/custom/lock"
+    },
+    {
+      "predicate": { "custom_model_data": 903 },
+      "model": "item/custom/key"
+    },
+    {
+      "predicate": { "custom_model_data": 904 },
+      "model": "item/custom/lock_pick"
+    }
+  ]
+}
