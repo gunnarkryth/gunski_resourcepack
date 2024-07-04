@@ -31,6 +31,10 @@
     {
       "predicate": { "custom_model_data": 930 },
       "model": "item/custom/lock_pick"
+    },
+    {
+      "predicate": { "custom_model_data": 1000 },
+      "model": "item/custom/collector"
     }
   ]
 }

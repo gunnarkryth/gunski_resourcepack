@@ -23,6 +23,10 @@
     {
       "predicate": { "custom_model_data": 920 },
       "model": "item/custom/key"
+    },
+    {
+      "predicate": { "custom_model_data": 1000 },
+      "model": "item/custom/collector"
     }
   ]
 }
