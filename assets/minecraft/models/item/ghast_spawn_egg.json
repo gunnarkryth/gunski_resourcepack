@@ -27,6 +27,10 @@
     {
       "predicate": { "custom_model_data": 1000 },
       "model": "item/custom/collector"
+    },
+    {
+      "predicate": { "custom_model_data": 1010 },
+      "model": "item/custom/husher"
     }
   ]
 }

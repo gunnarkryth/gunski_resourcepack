@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/decorated_pot"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1010 },
+      "model": "item/custom/husher"
+    }
+  ]
+}
