@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/gun",
-		"particle": "item/custom/gun"
+		"0": "item/custom/gun_fire",
+		"particle": "item/custom/gun_fire"
 	},
 	"elements": [
 		{
