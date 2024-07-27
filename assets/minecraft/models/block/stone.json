@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/generated",
+  "textures": {
+    "layer0": "block/stone"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1000 },
+      "model": "block/custom/tombstone"
+    }
+  ]
+}
